@@ -9,4 +9,4 @@ Project is created with:
 * JavaScript
 * CSS
 
-This is a Project for the `Full-Stack Engineer` Career Path of CodeAcademy
+This is a Project for the `Full-Stack Engineer` Career Path of Codecademy
